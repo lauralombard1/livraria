@@ -1,0 +1,63 @@
+/********* RESETAR FORMATAÇÕES DO SITE*********/
+/* *{
+    margin: 0%;
+    padding: 0%;
+} */
+
+
+/********* HEADER ********/
+
+#topo h1{
+    text-align: center;
+    color: red;
+    
+}
+#topo h2{
+    text-align: center;
+    
+}
+#topo{
+    background-color: antiquewhite;
+    width: 50%;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 40px;
+}
+
+/**********MENU***********/
+#menu{
+    background-color: antiquewhite;
+    width: 50%;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+#menu ul li{
+    display: inline-block;
+    list-style: none;
+    width: 100px;
+    text-decoration: none;
+    background-color: darksalmon;
+    border-radius: 3px;
+}
+#menu ul{
+    text-align: center;
+    height: 20px;
+    margin-top: ;
+}
+
+
+/********* MAIN ***********/
+.destaque h2{
+    color: darkblue;
+}
+
+/********** SOBRE ***********/
+.sobre h3{
+    color: red;
+}
+
+
+
+
